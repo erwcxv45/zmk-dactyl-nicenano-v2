@@ -107,7 +107,7 @@
         layer_1 {
             bindings = <
 &trans        &trans    &trans          &trans        &trans          &trans        &trans      &trans            &trans        &trans        &trans             &trans
-&trans        &kp F1    &kp F2          &kp F3        &kp F4          &kp F5        &kt MINUS   &kp EQUAL         &kp SLASH     &kp ASTERISK  &kp GRAVE          &reset
+&trans        &kp F1    &kp F2          &kp F3        &kp F4          &kp F5        &kt MINUS   &kp EQUAL         &kp SLASH     &kp ASTERISK  &kp GRAVE          &sys_reset
 &kp TAB       &kp F6    &kp F7          &kp F8        &kp F9          &kp F10       &trans      &kp NUMBER_7      &kp N8        &kp NUMBER_9  &kt RIGHT_BRACKET  &kp RIGHT_BRACKET
 &mo 0         &mkp MB4  &mkp LCLK       &mkp RCLK     &mkp MCLK       &kp G         &kp F11     &kp NUMBER_4      &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_0       &trans
 &kp LEFT_WIN  &kp Z     &kp X           &kp C         &kp V           &kp B         &kp F12     &kp NUMBER_1      &kp NUMBER_2  &kp NUMBER_3  &kp LEFT_ALT       &kp MINUS
